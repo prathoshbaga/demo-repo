@@ -1,3 +1,3 @@
 # Demo Repo
 
-Repo used while learning GIT
+Repo used while learning GIT.
